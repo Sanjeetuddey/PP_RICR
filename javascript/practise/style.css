@@ -1,0 +1,23 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+.container{
+    width: 500px;
+    height: 500px;
+    margin: 0 auto;
+    border: 1px solid #000;
+    background-color: rgb(73, 86, 7);
+    display: grid;
+    justify-content: center;
+    align-items: center;
+}
+
+#hh{
+    display: grid;
+    margin-bottom: 100px;
+    justify-content: center;
+    text-align: center;
+
+}
